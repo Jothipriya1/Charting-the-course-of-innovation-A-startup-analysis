@@ -24,4 +24,5 @@ https://public.tableau.com/app/profile/jothi.priya/viz/NumberofStartupsbyState/S
 Number of Startups by Year
 https://public.tableau.com/app/profile/jothi.priya/viz/NumberofStartupsbyYear/Sheet1
 
-Number of Startups by Industry Wisehttps://public.tableau.com/app/profile/jothi.priya/viz/NumberofStartupsbyIndustryWise/Sheet2
+Number of Startups by Industry Wise
+https://public.tableau.com/app/profile/jothi.priya/viz/NumberofStartupsbyIndustryWise/Sheet2
