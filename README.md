@@ -28,6 +28,7 @@ Number of Startups by Industry Wise
 https://public.tableau.com/app/profile/jothi.priya/viz/NumberofStartupsbyIndustryWise/Sheet2
 
 Dashboard
-https://public.tableau.com/app/profile/jothi.priya/viz/DashBoard_16813817926380/Story1
+https://public.tableau.com/app/profile/jothi.priya/viz/DashBoard_16813817926380/Dashboard1
 
 StoryBoard
+https://public.tableau.com/app/profile/jothi.priya/viz/Storyboard_16813828849960/Story1
